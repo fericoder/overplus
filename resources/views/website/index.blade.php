@@ -574,6 +574,7 @@
                                     <span><i class="lni-bookmark"></i></span>
                                     <span><i class="lni-heart"></i></span>
                                 </div>
+
                                 <div class="card-text">
                                     <div class="float-left">
                                                 <span class="icon-wrap">
