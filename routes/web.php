@@ -14,3 +14,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'WebsiteController@index');
+
+
+
+
+Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(function () {
+    Route::get('index', 'IndexController@index');
+});
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
