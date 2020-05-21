@@ -329,13 +329,13 @@
 <section class="featured section-padding">
     <div class="container">
         <h1 class="section-title">Latest Products</h1>
-        <div class="row">
+        <div class="row overplus-rtl">
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
                 <div class="featured-box">
                     <figure>
                         <div class="icon">
-                            <span class="bg-green"><i class="lni-heart"></i></span>
-                            <span><i class="lni-bookmark"></i></span>
+
+
                         </div>
                         <a href="#"><img class="img-fluid" src="assets/img/featured/img-1.jpg" alt="" /></a>
                     </figure>
@@ -358,7 +358,7 @@
                         </div>
                         <p class="dsc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
                         <div class="listing-bottom">
-                            <h3 class="price float-left">$249.00</h3>
+
                             <a href="ads-details.html" class="btn btn-common float-right">View Details</a>
                         </div>
                     </div>
@@ -367,12 +367,12 @@
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
                 <div class="featured-box">
                     <figure>
-                                <span class="price-save">
-                                    25% Save
-                                </span>
+
+
+
                         <div class="icon">
-                            <span class="bg-green"><i class="lni-heart"></i></span>
-                            <span><i class="lni-bookmark"></i></span>
+
+
                         </div>
                         <a href="#"><img class="img-fluid" src="assets/img/featured/img-2.jpg" alt="" /></a>
                     </figure>
@@ -395,7 +395,7 @@
                         </div>
                         <p class="dsc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
                         <div class="listing-bottom">
-                            <h3 class="price float-left">$289.00</h3>
+
                             <a href="ads-details.html" class="btn btn-common float-right">View Details</a>
                         </div>
                     </div>
@@ -405,8 +405,8 @@
                 <div class="featured-box">
                     <figure>
                         <div class="icon">
-                            <span class="bg-green"><i class="lni-heart"></i></span>
-                            <span><i class="lni-bookmark"></i></span>
+
+
                         </div>
                         <a href="#"><img class="img-fluid" src="assets/img/featured/img-3.jpg" alt="" /></a>
                     </figure>
@@ -429,7 +429,7 @@
                         </div>
                         <p class="dsc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
                         <div class="listing-bottom">
-                            <h3 class="price float-left">$199.80</h3>
+
                             <a href="ads-details.html" class="btn btn-common float-right">View Details</a>
                         </div>
                     </div>
@@ -438,12 +438,12 @@
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
                 <div class="featured-box">
                     <figure>
-                                <span class="price-save">
-                                    10% Save
-                                </span>
+
+
+
                         <div class="icon">
-                            <span class="bg-green"><i class="lni-heart"></i></span>
-                            <span><i class="lni-bookmark"></i></span>
+
+
                         </div>
                         <a href="#"><img class="img-fluid" src="assets/img/featured/img-4.jpg" alt="" /></a>
                     </figure>
@@ -466,7 +466,7 @@
                         </div>
                         <p class="dsc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
                         <div class="listing-bottom">
-                            <h3 class="price float-left">$206.90</h3>
+
                             <a href="ads-details.html" class="btn btn-common float-right">View Details</a>
                         </div>
                     </div>
@@ -476,8 +476,8 @@
                 <div class="featured-box">
                     <figure>
                         <div class="icon">
-                            <span class="bg-green"><i class="lni-heart"></i></span>
-                            <span><i class="lni-bookmark"></i></span>
+
+
                         </div>
                         <a href="#"><img class="img-fluid" src="assets/img/featured/img-5.jpg" alt="" /></a>
                     </figure>
@@ -500,7 +500,7 @@
                         </div>
                         <p class="dsc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
                         <div class="listing-bottom">
-                            <h3 class="price float-left">$106.70</h3>
+
                             <a href="ads-details.html" class="btn btn-common float-right">View Details</a>
                         </div>
                     </div>
@@ -509,12 +509,12 @@
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
                 <div class="featured-box">
                     <figure>
-                                <span class="price-save">
-                                    35% Save
-                                </span>
+
+
+
                         <div class="icon">
-                            <span class="bg-green"><i class="lni-heart"></i></span>
-                            <span><i class="lni-bookmark"></i></span>
+
+
                         </div>
                         <a href="#"><img class="img-fluid" src="assets/img/featured/img-6.jpg" alt="" /></a>
                     </figure>
@@ -537,7 +537,7 @@
                         </div>
                         <p class="dsc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
                         <div class="listing-bottom">
-                            <h3 class="price float-left">$120.00</h3>
+
                             <a href="ads-details.html" class="btn btn-common float-right">View Details</a>
                         </div>
                     </div>
@@ -565,7 +565,7 @@
                                 <div class="btn-product bg-sale">
                                     <a href="#">Sale</a>
                                 </div>
-                                <span class="price">$999.00</span>
+
                             </div>
                             <div class="product-content">
                                 <h3 class="product-title"><a href="ads-details.html">Macbook Pro 2020</a></h3>
@@ -605,7 +605,7 @@
                                         <a class="btn btn-common" href="ads-details.html">View Details</a>
                                     </div>
                                 </div>
-                                <span class="price">$269.00</span>
+
                             </div>
                             <div class="product-content">
                                 <h3 class="product-title"><a href="ads-details.html">Nikon Camera</a></h3>
@@ -647,7 +647,7 @@
                                 <div class="btn-product bg-slod">
                                     <a href="#">Sold</a>
                                 </div>
-                                <span class="price">$799.00</span>
+                
                             </div>
                             <div class="product-content">
                                 <h3 class="product-title"><a href="ads-details.html">iPhone X Refurbished</a></h3>
@@ -686,7 +686,7 @@
                                         <a class="btn btn-common" href="ads-details.html">View Details</a>
                                     </div>
                                 </div>
-                                <span class="price">$99.00</span>
+
                             </div>
                             <div class="product-content">
                                 <h3 class="product-title"><a href="ads-details.html">Baby Toy</a></h3>
@@ -725,7 +725,7 @@
                                         <a class="btn btn-common" href="ads-details.html">View Details</a>
                                     </div>
                                 </div>
-                                <span class="price">$99.00</span>
+
                             </div>
                             <div class="product-content">
                                 <h3 class="product-title"><a href="ads-details.html">Baby Toy</a></h3>
@@ -767,7 +767,7 @@
                                 <div class="btn-product bg-sale">
                                     <a href="#">Sale</a>
                                 </div>
-                                <span class="price">$99.00</span>
+
                             </div>
                             <div class="product-content">
                                 <h3 class="product-title"><a href="ads-details.html">Baby Toy</a></h3>
@@ -850,7 +850,7 @@
                     <div class="icon">
                         <i class="lni-leaf"></i>
                     </div>
-                    <div class="services-content">
+                    <div class="services-content overplus-rtl" style="margin-right:40px;">
                         <h3><a href="#">Elegant Design</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo aut magni perferendis.</p>
                     </div>
@@ -862,7 +862,7 @@
                     <div class="icon">
                         <i class="lni-display"></i>
                     </div>
-                    <div class="services-content">
+                    <div class="services-content overplus-rtl" style="margin-right:40px;">
                         <h3><a href="#">Responsive Design</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo aut magni perferendis.</p>
                     </div>
@@ -874,7 +874,7 @@
                     <div class="icon">
                         <i class="lni-color-pallet"></i>
                     </div>
-                    <div class="services-content">
+                    <div class="services-content overplus-rtl" style="margin-right:40px;">
                         <h3><a href="#">Clean UI</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo aut magni perferendis.</p>
                     </div>
@@ -886,7 +886,7 @@
                     <div class="icon">
                         <i class="lni-emoji-smile"></i>
                     </div>
-                    <div class="services-content">
+                    <div class="services-content overplus-rtl" style="margin-right:40px;">
                         <h3><a href="#">UX Friendly</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo aut magni perferendis.</p>
                     </div>
@@ -898,7 +898,7 @@
                     <div class="icon">
                         <i class="lni-pencil-alt"></i>
                     </div>
-                    <div class="services-content">
+                    <div class="services-content overplus-rtl" style="margin-right:40px;">
                         <h3><a href="#">Easily Customizable</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo aut magni perferendis.</p>
                     </div>
@@ -910,7 +910,7 @@
                     <div class="icon">
                         <i class="lni-headphone-alt"></i>
                     </div>
-                    <div class="services-content">
+                    <div class="services-content overplus-rtl" style="margin-right:40px;">
                         <h3><a href="#">Security Support</a></h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo aut magni perferendis.</p>
                     </div>
@@ -923,7 +923,7 @@
 
 
 
-<footer>
+<footer class="overplus-rtl">
     <section class="footer-Content">
         <div class="container">
             <div class="row">
