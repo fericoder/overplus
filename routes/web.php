@@ -14,6 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'WebsiteController@index');
+Route::get('/FAQ', 'WebsiteController@FAQ');
+Route::get('/AboutUs', 'WebsiteController@AboutUs');
+Route::get('/Contact', 'WebsiteController@Contact');
 
 
 
