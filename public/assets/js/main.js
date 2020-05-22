@@ -176,7 +176,7 @@ JS INDEX
             items: 2,
         },
         991: {
-            items: 5,
+            items: 3,
         }
       }
   });

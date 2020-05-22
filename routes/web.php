@@ -13,10 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'WebsiteController@index');
-Route::get('/FAQ', 'WebsiteController@FAQ');
-Route::get('/AboutUs', 'WebsiteController@AboutUs');
-Route::get('/Contact', 'WebsiteController@Contact');
+Route::get('/', 'WebsiteController@index')->name('index');
+Route::get('/faq', 'WebsiteController@FAQ')->name('faq');
+Route::get('/aboutUs', 'WebsiteController@AboutUs')->name('aboutUs');
+Route::get('/contact', 'WebsiteController@Contact')->name('contact');
 
 
 
@@ -29,3 +29,4 @@ Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(fu
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('logout', 'Auth\LoginController@logout')->name('logout');
