@@ -3,15 +3,15 @@
 @section('content')
 
 
-<div class="page-header" style="background: url(assets/img/banner1.jpg);">
+<div class="page-header" style="background: url(assets/img/oil1.jpg);">
 <div class="container">
-<div class="row">
+<div class="row overplus-rtl">
 <div class="col-md-12">
 <div class="breadcrumb-wrapper">
-<h2 class="product-title">Contact Us</h2>
+<h2 class="product-title">تماس باما</h2>
 <ol class="breadcrumb">
-<li><a href="#">Home /</a></li>
-<li class="current">Contact Us</li>
+<li><a href="/">صفحه اصلی /</a></li>
+<li class="current">تماس باما</li>
 </ol>
 </div>
 </div>
@@ -31,33 +31,33 @@
 </section>
 
 
-<section id="content" class="section-padding">
+<section id="content" class="section-padding overplus-rtl">
 <div class="container">
 <div class="row">
 <div class="col-lg-8 col-md-8 col-xs-12">
 
 <form id="contactForm" class="contact-form" data-toggle="validator">
 <h2 class="contact-title">
-Send Message Us
+  برای ما پیام ارسال کنید
 </h2>
 <div class="row">
 <div class="col-md-12">
 <div class="row">
 <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 <div class="form-group">
-<input type="text" class="form-control" id="name" name="name" placeholder="Name" required data-error="Please enter your name">
+<input type="text" class="form-control" id="name" name="name" placeholder="نام و نام خانوادگی" required data-error="Please enter your name">
 <div class="help-block with-errors"></div>
 </div>
 </div>
 <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 <div class="form-group">
-<input type="email" class="form-control" id="email" placeholder="Email" required data-error="Please enter your email">
+<input type="email" class="form-control" id="email" placeholder="ایمیل" required data-error="Please enter your email">
 <div class="help-block with-errors"></div>
 </div>
 </div>
 <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 <div class="form-group">
-<input type="text" class="form-control" id="msg_subject" name="subject" placeholder="Subject" required data-error="Please enter your subject">
+<input type="text" class="form-control" id="msg_subject" name="subject" placeholder="موضموع" required data-error="Please enter your subject">
 <div class="help-block with-errors"></div>
 </div>
 </div>
@@ -67,14 +67,14 @@ Send Message Us
 <div class="row">
 <div class="col-md-12">
 <div class="form-group">
-<textarea class="form-control" placeholder="Massage" rows="7" data-error="Write your message" required></textarea>
+<textarea class="form-control" placeholder="پیام خود را ارسال کنید" rows="7" data-error="Write your message" required></textarea>
 <div class="help-block with-errors"></div>
 </div>
 </div>
 </div>
  </div>
 <div class="col-md-12">
-<button type="submit" id="submit" class="btn btn-common">Submit Now</button>
+<button type="submit" id="submit" class="btn btn-common">اکنون ارسال کنید</button>
 <div id="msgSubmit" class="h3 text-center hidden"></div>
 <div class="clearfix"></div>
 </div>
@@ -83,18 +83,18 @@ Send Message Us
 </div>
 <div class="col-lg-4 col-md-4 col-xs-12">
 <div class="information mb-4">
-<h3>Address</h3>
+<h3>آدرس</h3>
 <div class="contact-datails">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc metus lectus, viverra vehicula porta id, posuere at massa. Nam sollicitudin porta nunc.</p>
+<p>ایران، تهران، خیابان هفت تیر</p>
 </div>
 </div>
 <div class="information">
-<h3>Contact Info</h3>
+<h3>اطلاعات تماس</h3>
 <div class="contact-datails">
 <ul class="list-unstyled info">
-<li><span>Address : </span><p> 9870 St Vincent Place, Glasgow, DC 45 Fr 45</p></li>
-<li><span>Email : </span><p><a href="#">support@mail.com</a></p></li>
-<li><span>Phone : </span><p>555 444 66647 & 555 444 66647</p></li>
+<li><span>آدرس : </span><p> ایران،تهران،خیابان هفت تیر</p></li>
+<li><span>ایمیل : </span><p><a href="#">overplus@mail.com</a></p></li>
+<li><span>شماره تماس : </span><p class="overplus-byekan">88542369</p></li>
 </ul>
 </div>
 </div>

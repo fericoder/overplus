@@ -4622,7 +4622,7 @@ blockquote {
   width: 40px;
   background: #E91E63;
   position: absolute;
-  left: 0;
+  right: 0;
   bottom: 0;
   z-index: 1;
 }
@@ -5306,7 +5306,7 @@ footer .menu li a:hover {
 }
 
 .counter-section {
-  background: url(../img/background/counter-back1.jpg);
+  background: url(../img/oil4.jpg);
   overflow: hidden;
   position: relative;
 }
@@ -5490,3 +5490,5 @@ h1 {
     direction: rtl;
     text-align: right;
 }
+.overplus-byekan{
+    font-family: byekan!important;

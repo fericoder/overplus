@@ -11,7 +11,7 @@
                 <div class="col-md-12 col-lg-9 col-xs-12 text-center">
                     <div class="contents">
                         <h1 class="head-title"> سامانه <span class="year">مبادلات</span> تجهیزات مازاد نفت، گاز و پتروشیمی </h1>
-                        <p>Buy and sell everything from used cars to mobile phones and computers, or search for property, jobs and more</p>
+                        <p>تبدیل فراورده‌های نفت خام یا گاز طبیعی به محصولات مصرفی</p>
                         <div class="search-bar">
                             <div class="search-inner">
                                 <form class="search-form">
@@ -58,7 +58,7 @@
             </div>
         </div>
     </div>
-    
+
 <section id="categories">
     <div class="container">
         <div class="row justify-content-center">
@@ -423,8 +423,8 @@
                                 <h3 class="product-title"><a href="ads-details.html">Macbook Pro 2020</a></h3>
                                 <span>Electronic / Computers</span>
                                 <div class="icon">
-                                    <span><i class="lni-bookmark"></i></span>
-                                    <span><i class="lni-heart"></i></span>
+                                    <span><i class="fa fa-home"></i></span>
+                                    <span><i class="fa fa-heart"></i></span>
                                 </div>
 
                                 <div class="card-text">
